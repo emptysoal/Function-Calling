@@ -5,6 +5,10 @@
 - 记录使用 `Qwen2.5` 的 `Function Calling` 功能
 
 ## 二. 运行
+下面是 3 种运行方式：
+- Hugging Face transformers
+- Ollama
+- vLLM
 
 ### 1. Hugging Face transformers
 
@@ -63,5 +67,6 @@ python vllm_demo.py
 ```
 
 ## 三. 参考
+
 
 - https://qwen.readthedocs.io/en/v2.5/framework/function_call.html
